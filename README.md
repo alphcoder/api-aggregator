@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 # 🔄 API Aggregator
 
 Сервис агрегации данных из нескольких внешних API в единый унифицированный формат — **NestJS** + **TypeORM** + **PostgreSQL**.
